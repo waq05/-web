@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="928ccd94-7885-4234-bb41-5647b5d2a049" name="变更" comment="准备完成">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_core_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_openapi3_jakarta_spring_boot_starter_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_knife4j_openapi3_ui_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_149.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_jakarta_2_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_core_jakarta_2_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_jakarta_2_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_starter_common_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_starter_webflux_api_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_starter_webflux_ui_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_starter_webmvc_api_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springdoc_springdoc_openapi_starter_webmvc_ui_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_swagger_ui_4_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/mybatisplus/MybatisPlusConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/result/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/result/ResultCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/classes/com/atguigu/lease/common/mybatisplus/MybatisPlusConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/classes/com/atguigu/lease/common/result/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/classes/com/atguigu/lease/common/result/ResultCodeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lease.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentFacility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentFeeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/AttrKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/AttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/BrowsingHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/CityInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/DistrictInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/FacilityInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/FeeKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/FeeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/GraphInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/LabelInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/LeaseAgreement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/LeaseTerm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/PaymentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ProvinceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/RoomAttrValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/RoomFacility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/RoomInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/RoomLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/RoomLeaseTerm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/RoomPaymentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/SystemPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/SystemUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ViewAppointment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/AppointmentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/BaseEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/BaseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/ItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/LeaseSourceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/LeaseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/ReleaseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/enums/SystemUserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ApartmentFacility$ApartmentFacilityBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ApartmentFacility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ApartmentFeeValue$ApartmentFeeValueBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ApartmentFeeValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ApartmentInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ApartmentLabel$ApartmentLabelBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ApartmentLabel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/AttrKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/AttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/BrowsingHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/CityInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/DistrictInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/FacilityInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/FeeKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/FeeValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/GraphInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/LabelInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/LeaseAgreement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/LeaseTerm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/PaymentType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ProvinceInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomAttrValue$RoomAttrValueBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomAttrValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomFacility$RoomFacilityBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomFacility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomLabel$RoomLabelBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomLabel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomLeaseTerm$RoomLeaseTermBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomLeaseTerm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomPaymentType$RoomPaymentTypeBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/RoomPaymentType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/SystemPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/SystemUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/ViewAppointment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/AppointmentStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/BaseEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/BaseStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/ItemType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/LeaseSourceType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/LeaseStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/ReleaseStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/enums/SystemUserType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/AdminWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/ApartmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/AttrController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/FacilityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/FeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/FileUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/LabelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/LeaseTermController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/PaymentTypeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/RegionInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/RoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/lease/LeaseAgreementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/lease/ViewAppointmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/login/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/system/SystemPostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/system/SystemUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/user/UserInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/custom/config/Knife4jConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ApartmentFacilityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ApartmentFeeValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ApartmentInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ApartmentLabelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/AttrKeyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/AttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/BrowsingHistoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/CityInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/DistrictInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/FacilityInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/FeeKeyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/FeeValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/GraphInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/LabelInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/LeaseAgreementMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/LeaseTermMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/PaymentTypeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ProvinceInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/RoomAttrValueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/RoomFacilityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/RoomInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/RoomLabelMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/RoomLeaseTermMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/RoomPaymentTypeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/SystemPostMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/SystemUserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/UserInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ViewAppointmentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ApartmentFacilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ApartmentFeeValueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ApartmentInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ApartmentLabelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/AttrKeyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/AttrValueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/BrowsingHistoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/CityInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/DistrictInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/FacilityInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/FeeKeyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/FeeValueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/GraphInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/LabelInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/LeaseAgreementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/LeaseTermService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/PaymentTypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ProvinceInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/RoomAttrValueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/RoomFacilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/RoomInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/RoomLabelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/RoomLeaseTermService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/RoomPaymentTypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/SystemPostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/SystemUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/UserInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ViewAppointmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ApartmentFacilityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ApartmentFeeValueServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ApartmentInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ApartmentLabelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/AttrKeyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/AttrValueServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/BrowsingHistoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/CityInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/DistrictInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/FacilityInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/FeeKeyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/FeeValueServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/GraphInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/LabelInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/LeaseAgreementServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/LeaseTermServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/PaymentTypeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ProvinceInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/RoomAttrValueServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/RoomFacilityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/RoomInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/RoomLabelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/RoomLeaseTermServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/RoomPaymentTypeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/SystemPostServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/SystemUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/UserInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ViewAppointmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/agreement/AgreementQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/agreement/AgreementVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/apartment/ApartmentDetailVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/apartment/ApartmentItemVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/apartment/ApartmentQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/apartment/ApartmentSubmitVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/appointment/AppointmentQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/appointment/AppointmentVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/attr/AttrKeyVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/attr/AttrValueVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/fee/FeeKeyVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/fee/FeeValueVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/graph/GraphVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/login/CaptchaVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/login/LoginVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/room/RoomDetailVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/room/RoomItemVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/room/RoomQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/room/RoomSubmitVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/system/user/SystemUserInfoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/system/user/SystemUserItemVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/system/user/SystemUserQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/vo/user/UserInfoQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ApartmentFacilityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ApartmentFeeValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ApartmentInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ApartmentLabelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/AttrKeyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/AttrValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/BrowsingHistoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/CityInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/DistrictInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/FacilityInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/FeeKeyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/FeeValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/GraphInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/LabelInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/LeaseAgreementMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/LeaseTermMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/PaymentTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ProvinceInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/RoomAttrValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/RoomFacilityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/RoomInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/RoomLabelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/RoomLeaseTermMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/RoomPaymentTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/SystemPostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/SystemUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/UserInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ViewAppointmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/AdminWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/ApartmentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/AttrController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/FacilityController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/FeeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/FileUploadController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/LabelController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/LeaseTermController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/PaymentTypeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/RegionInfoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/RoomController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/lease/LeaseAgreementController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/lease/ViewAppointmentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/login/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/system/SystemPostController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/system/SystemUserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/user/UserInfoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/custom/config/Knife4jConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/ApartmentFacilityMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/ApartmentFeeValueMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/ApartmentInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/ApartmentLabelMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/AttrKeyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/AttrValueMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/BrowsingHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/CityInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/DistrictInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/FacilityInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/FeeKeyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/FeeValueMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/GraphInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/LabelInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/LeaseAgreementMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/LeaseTermMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/PaymentTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/ProvinceInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/RoomAttrValueMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/RoomFacilityMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/RoomInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/RoomLabelMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/RoomLeaseTermMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/RoomPaymentTypeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/SystemPostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/SystemUserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/UserInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/mapper/ViewAppointmentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/ApartmentFacilityService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/ApartmentFeeValueService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/ApartmentInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/ApartmentLabelService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/AttrKeyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/AttrValueService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/BrowsingHistoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/CityInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/DistrictInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/FacilityInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/FeeKeyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/FeeValueService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/FileService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/GraphInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/LabelInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/LeaseAgreementService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/LeaseTermService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/PaymentTypeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/ProvinceInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/RoomAttrValueService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/RoomFacilityService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/RoomInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/RoomLabelService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/RoomLeaseTermService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/RoomPaymentTypeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/SystemPostService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/SystemUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/UserInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/ViewAppointmentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/ApartmentFacilityServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/ApartmentFeeValueServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/ApartmentInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/ApartmentLabelServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/AttrKeyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/AttrValueServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/BrowsingHistoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/CityInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/DistrictInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/FacilityInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/FeeKeyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/FeeValueServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/FileServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/GraphInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/LabelInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/LeaseAgreementServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/LeaseTermServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/LoginServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/PaymentTypeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/ProvinceInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/RoomAttrValueServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/RoomFacilityServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/RoomInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/RoomLabelServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/RoomLeaseTermServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/RoomPaymentTypeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/SystemPostServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/SystemUserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/UserInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/service/impl/ViewAppointmentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/agreement/AgreementQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/agreement/AgreementVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/apartment/ApartmentDetailVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/apartment/ApartmentItemVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/apartment/ApartmentQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/apartment/ApartmentSubmitVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/appointment/AppointmentQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/appointment/AppointmentVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/attr/AttrKeyVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/attr/AttrValueVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/fee/FeeKeyVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/fee/FeeValueVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/graph/GraphVo$GraphVoBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/graph/GraphVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/login/CaptchaVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/login/LoginVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/room/RoomDetailVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/room/RoomItemVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/room/RoomQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/room/RoomSubmitVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/system/user/SystemUserInfoVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/system/user/SystemUserItemVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/system/user/SystemUserQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/vo/user/UserInfoQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/ApartmentFacilityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/ApartmentFeeValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/ApartmentInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/ApartmentLabelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/AttrKeyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/AttrValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/BrowsingHistoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/CityInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/DistrictInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/FacilityInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/FeeKeyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/FeeValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/GraphInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/LabelInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/LeaseAgreementMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/LeaseTermMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/PaymentTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/ProvinceInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/RoomAttrValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/RoomFacilityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/RoomInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/RoomLabelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/RoomLeaseTermMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/RoomPaymentTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/SystemPostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/SystemUserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/UserInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/classes/mapper/ViewAppointmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-admin/web-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-app/src/main/java/com/atguigu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-app/target/classes/com/atguigu/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web-app/web-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.9.9-bin/apache-maven-3.9.9" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.9.9-bin\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectId" id="2uFwWCFASxmyhpsE3JOLF4OzqKB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/bianchengruanjian/IDEA/lease&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.ignored.files&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ef3b7b7a90d52439edc76dc3e277746f&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\waq\Downloads\mall-swarm-master\lease\common\src\main\java" />
+      <recent name="C:\Users\waq\Downloads\mall-swarm-master\lease\web\web-admin\src\main\java" />
+      <recent name="C:\Users\waq\Downloads\mall-swarm-master\lease\web\web-admin\src\main\resources" />
+      <recent name="C:\Users\waq\Downloads\mall-swarm-master\lease\model\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminWebApplication (1)">
+    <configuration name="AdminWebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="web-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.lease.AdminWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.lease.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="lease" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.lease.AdminWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminWebApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="928ccd94-7885-4234-bb41-5647b5d2a049" name="变更" comment="" />
+      <created>1741857660021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741857660021</updated>
+      <workItem from="1741857661767" duration="7201000" />
+      <workItem from="1741880830766" duration="28000" />
+      <workItem from="1741880862183" duration="107000" />
+      <workItem from="1741880995099" duration="139000" />
+      <workItem from="1741881233023" duration="453000" />
+      <workItem from="1741881705069" duration="505000" />
+      <workItem from="1741882230498" duration="2529000" />
+      <workItem from="1741884799439" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="准备完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="准备完成" />
+  </component>
+</project>
