@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928ccd94-7885-4234-bb41-5647b5d2a049" name="变更" comment="准备完成">
+    <list default="true" id="928ccd94-7885-4234-bb41-5647b5d2a049" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/mybatisplus/MybatisMetaObjectHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/atguigu/lease/model/entity/BaseEntity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/PaymentTypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/PaymentTypeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/PaymentTypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/target/classes/com/atguigu/lease/web/admin/controller/apartment/PaymentTypeController.class" afterDir="false" />
     </list>
@@ -62,7 +61,7 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "Code Search",
     "show.run.dashboard.notification": "false",
     "spring.configuration.checksum": "ef3b7b7a90d52439edc76dc3e277746f"
   }
@@ -119,7 +118,7 @@
       <workItem from="1741881705069" duration="505000" />
       <workItem from="1741882230498" duration="2529000" />
       <workItem from="1741884799439" duration="3428000" />
-      <workItem from="1741942947920" duration="1836000" />
+      <workItem from="1741942947920" duration="3597000" />
     </task>
     <task id="LOCAL-00001" summary="准备完成">
       <created>1741886881357</created>
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1741886881357</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="准备完成">
+      <created>1741954446923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741954446923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,5 +154,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="准备完成" />
     <option name="LAST_COMMIT_MESSAGE" value="准备完成" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
