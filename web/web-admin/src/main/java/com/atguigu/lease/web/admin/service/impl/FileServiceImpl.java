@@ -24,14 +24,14 @@ public class FileServiceImpl implements FileService {
     private MinioProperties properties;
 
     @Override
-    public String upload(MultipartFile file) {
-        try {
+    public String upload(MultipartFile file) throws ServerException, InsufficientDataException, ErrorResponseException, IOException, NoSuchAlgorithmException, InvalidKeyException, InvalidResponseException, XmlParserException, InternalException {
             boolean bucketExists = minioClient.bucketExists(
                     BucketExistsArgs.builder()
                             .bucket(properties.getBucketName())
                             .build());
             if (!bucketExists) {
-                minioClient.makeBucket(MakeBucketArgs.builder()
+                minioClient.makeBucket(
+                        MakeBucketArgs.builder()
                         .bucket(properties.getBucketName())
                         .build());
                 minioClient.setBucketPolicy(
@@ -50,10 +50,6 @@ public class FileServiceImpl implements FileService {
                             .build());
             String url = properties.getEndpoint() + "/" + properties.getBucketName() + "/" + filename;
             return url;
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        return null;
     }
 
     private String createBucketPolicyConfig(String bucketName) {

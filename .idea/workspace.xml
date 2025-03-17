@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928ccd94-7885-4234-bb41-5647b5d2a049" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/minio/MinioConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/minio/MinioProperties.java" afterDir="false" />
+    <list default="true" id="928ccd94-7885-4234-bb41-5647b5d2a049" name="变更" comment="minio上传文件-2">
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/exception/GlobalExceptionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/FileUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/FileUploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/FileService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/FileServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/FileServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-admin/web-admin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/web-admin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web-app/web-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-app/web-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +127,8 @@
       <workItem from="1741942947920" duration="3870000" />
       <workItem from="1742012915745" duration="6859000" />
       <workItem from="1742100369777" duration="7556000" />
-      <workItem from="1742205143206" duration="5138000" />
+      <workItem from="1742205143206" duration="6632000" />
+      <workItem from="1742222517493" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="准备完成">
       <created>1741886881357</created>
@@ -185,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742111115287</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="minio上传文件">
+      <created>1742214015476</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742214015476</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +210,9 @@
     <MESSAGE value="属性值后三个功能" />
     <MESSAGE value="杂费管理" />
     <MESSAGE value="地区管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="地区管理" />
+    <MESSAGE value="minio上传文件" />
+    <MESSAGE value="minio上传文件-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="minio上传文件-2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
