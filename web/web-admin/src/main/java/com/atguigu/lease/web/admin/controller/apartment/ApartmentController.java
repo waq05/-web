@@ -25,7 +25,6 @@ import java.util.List;
 public class ApartmentController {
     @Autowired
     private ApartmentInfoService service;
-
     @Operation(summary = "保存或更新公寓信息")
     @PostMapping("saveOrUpdate")
     public Result saveOrUpdate(@RequestBody ApartmentSubmitVo apartmentSubmitVo) {
@@ -44,7 +43,8 @@ public class ApartmentController {
     @Operation(summary = "根据ID获取公寓详细信息")
     @GetMapping("getDetailById")
     public Result<ApartmentDetailVo> getDetailById(@RequestParam Long id) {
-        return Result.ok();
+        ApartmentDetailVo result =  service.getDetailById(id);
+        return Result.ok(result);
     }
 
     @Operation(summary = "根据id删除公寓信息")
