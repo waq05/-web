@@ -4,9 +4,13 @@ import com.atguigu.lease.model.entity.*;
 import com.atguigu.lease.model.enums.ItemType;
 import com.atguigu.lease.web.admin.mapper.ApartmentInfoMapper;
 import com.atguigu.lease.web.admin.service.*;
+import com.atguigu.lease.web.admin.vo.apartment.ApartmentItemVo;
+import com.atguigu.lease.web.admin.vo.apartment.ApartmentQueryVo;
 import com.atguigu.lease.web.admin.vo.apartment.ApartmentSubmitVo;
 import com.atguigu.lease.web.admin.vo.graph.GraphVo;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
+import com.baomidou.mybatisplus.core.metadata.IPage;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -31,6 +35,8 @@ public class ApartmentInfoServiceImpl extends ServiceImpl<ApartmentInfoMapper, A
     private ApartmentLabelService apartmentLabelService;
     @Autowired
     private ApartmentFeeValueService apartmentFeeValueService;
+    @Autowired
+    private ApartmentInfoMapper apartmentInfoMapper;
 
     @Override
     public void saveOrUpdateApartment(ApartmentSubmitVo apartmentSubmitVo) {
@@ -57,8 +63,14 @@ public class ApartmentInfoServiceImpl extends ServiceImpl<ApartmentInfoMapper, A
 
         //1.插入图片列表
         List<GraphVo> graphVoList = apartmentSubmitVo.getGraphVoList();
+        /*
+         * 处理非空的图片列表，构建GraphInfo对象列表
+         */
         if (!CollectionUtils.isEmpty(graphVoList)) {
             ArrayList<GraphInfo> graphInfoList = new ArrayList<>();
+            /*
+             * 遍历图片信息列表，为每个GraphVo创建对应的GraphInfo对象并设置属性
+             */
             for (GraphVo graphVo : graphVoList) {
                 GraphInfo graphInfo = new GraphInfo();
                 graphInfo.setItemType(ItemType.APARTMENT);
@@ -67,8 +79,12 @@ public class ApartmentInfoServiceImpl extends ServiceImpl<ApartmentInfoMapper, A
                 graphInfo.setUrl(graphVo.getUrl());
                 graphInfoList.add(graphInfo);
             }
+            /*
+             * 批量保存图片信息到数据库
+             */
             graphInfoService.saveBatch(graphInfoList);
         }
+
 
 
         //2.插入配套列表
@@ -111,6 +127,11 @@ public class ApartmentInfoServiceImpl extends ServiceImpl<ApartmentInfoMapper, A
             }
             apartmentFeeValueService.saveBatch(apartmentFeeValueList);
         }
+    }
+
+    @Override
+    public IPage<ApartmentItemVo> pageItem(Page<ApartmentItemVo> page, ApartmentQueryVo queryVo) {
+        return apartmentInfoMapper.pageItem(page, queryVo);
     }
 }
 

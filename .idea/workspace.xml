@@ -6,12 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="928ccd94-7885-4234-bb41-5647b5d2a049" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentFacility.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentFacility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentFeeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentFeeValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/com/atguigu/lease/model/entity/ApartmentLabel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/mybatisplus/MybatisPlusConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/atguigu/lease/common/mybatisplus/MybatisPlusConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/ApartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/controller/apartment/ApartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ApartmentInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/mapper/ApartmentInfoMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ApartmentInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/ApartmentInfoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ApartmentInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/java/com/atguigu/lease/web/admin/service/impl/ApartmentInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ApartmentInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web-admin/src/main/resources/mapper/ApartmentInfoMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +132,8 @@
       <workItem from="1742100369777" duration="7556000" />
       <workItem from="1742205143206" duration="6632000" />
       <workItem from="1742222517493" duration="1186000" />
-      <workItem from="1742271845427" duration="2255000" />
+      <workItem from="1742271845427" duration="2645000" />
+      <workItem from="1742293857482" duration="3181000" />
     </task>
     <task id="LOCAL-00001" summary="准备完成">
       <created>1741886881357</created>
@@ -196,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1742223010184</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="公寓信息管理，主要是VO类中多了几个属性">
+      <created>1742274211307</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742274211307</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +232,8 @@
     <MESSAGE value="minio上传文件" />
     <MESSAGE value="minio上传文件-2" />
     <MESSAGE value="全局异常处理" />
-    <option name="LAST_COMMIT_MESSAGE" value="全局异常处理" />
+    <MESSAGE value="公寓信息管理，主要是VO类中多了几个属性" />
+    <option name="LAST_COMMIT_MESSAGE" value="公寓信息管理，主要是VO类中多了几个属性" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
