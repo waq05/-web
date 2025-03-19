@@ -5,7 +5,10 @@
 <mapper namespace="com.atguigu.lease.web.admin.mapper.ApartmentInfoMapper">
 
     <select id="pageItem" resultType="com.atguigu.lease.web.admin.vo.apartment.ApartmentItemVo">
-        select ai.introduction,
+        select
+            ai.id,
+            ai.name,
+            ai.introduction,
         ai.district_id,
         ai.district_name,
         ai.city_id,

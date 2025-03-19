@@ -5,7 +5,7 @@
 <mapper namespace="com.atguigu.lease.web.admin.mapper.GraphInfoMapper">
 
     <select id="selectListByItemAndId" resultType="com.atguigu.lease.web.admin.vo.graph.GraphVo">
-        select id,
+        select
                name,
                url
         from graph_info
